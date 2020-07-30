@@ -11,7 +11,16 @@ from mininet.link import TCLink, Intf
 from subprocess import call
 
 def myNetwork():
-
+asd
+asd
+asd
+asd
+asd
+asd
+asd
+as
+das
+d
     net = Mininet( topo=None,
                    build=False,
                    ipBase='10.0.0.0/8')
