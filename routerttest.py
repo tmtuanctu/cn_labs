@@ -68,4 +68,5 @@ if __name__ == '__main__':
     myNetwork()
 	
 
-Nguyen da o day
+Nguyen da o day, ahihi
+
